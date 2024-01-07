@@ -1,4 +1,5 @@
 Planning kelas XII B di semester genap 2023/2024
 - belajar github
 - review crud
+- Presentasi laporan PKL
 - buat project untuk UKK
